@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/PaReLab4/!svn/ver/105/DbMultiFea/DbInit/DbLabels
+END
+TransSingleLabelToBinLabel.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/PaReLab4/!svn/ver/105/DbMultiFea/DbInit/DbLabels/TransSingleLabelToBinLabel.m
+END
+TransBinLabelToOrderLabel.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/PaReLab4/!svn/ver/105/DbMultiFea/DbInit/DbLabels/TransBinLabelToOrderLabel.m
+END
+TransOrderLabelToBinLabel.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/PaReLab4/!svn/ver/105/DbMultiFea/DbInit/DbLabels/TransOrderLabelToBinLabel.m
+END
+BuildLabelStartFromOne.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/PaReLab4/!svn/ver/105/DbMultiFea/DbInit/DbLabels/BuildLabelStartFromOne.m
+END
+TransBinLabelToNumLabel.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/PaReLab4/!svn/ver/105/DbMultiFea/DbInit/DbLabels/TransBinLabelToNumLabel.m
+END
+TransNumLabelToBinLabel.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/PaReLab4/!svn/ver/105/DbMultiFea/DbInit/DbLabels/TransNumLabelToBinLabel.m
+END

@@ -1,0 +1,9 @@
+function data_label = TransData2CenterToDataLabel(data2center)
+    %
+    % code@dyang.name
+    % Copyright (c) d. yang (2011). 
+    % This software may be freely used and distributed for non-commercial purposes.
+    %
+	
+    [a, data_label]=min(data2center');
+end

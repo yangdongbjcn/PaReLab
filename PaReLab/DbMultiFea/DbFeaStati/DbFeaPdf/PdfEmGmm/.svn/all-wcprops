@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/PaReLab4/!svn/ver/129/DbMultiFea/DbFeaStati/DbFeaPdf/PdfEmGmm
+END
+gmm2clusterLabel.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/PaReLab4/!svn/ver/105/DbMultiFea/DbFeaStati/DbFeaPdf/PdfEmGmm/gmm2clusterLabel.m
+END
+clusterCells2normfit.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/PaReLab4/!svn/ver/105/DbMultiFea/DbFeaStati/DbFeaPdf/PdfEmGmm/clusterCells2normfit.m
+END
+nd2gmmb.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/PaReLab4/!svn/ver/105/DbMultiFea/DbFeaStati/DbFeaPdf/PdfEmGmm/nd2gmmb.m
+END
+gmm_hier.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/PaReLab4/!svn/ver/105/DbMultiFea/DbFeaStati/DbFeaPdf/PdfEmGmm/gmm_hier.m
+END
+nd2gm.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/PaReLab4/!svn/ver/105/DbMultiFea/DbFeaStati/DbFeaPdf/PdfEmGmm/nd2gm.m
+END
+nd2gmdistribution.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/PaReLab4/!svn/ver/105/DbMultiFea/DbFeaStati/DbFeaPdf/PdfEmGmm/nd2gmdistribution.m
+END
+clusterCells2gmmb.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/PaReLab4/!svn/ver/105/DbMultiFea/DbFeaStati/DbFeaPdf/PdfEmGmm/clusterCells2gmmb.m
+END
+clusterCells2gmdistribution.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/PaReLab4/!svn/ver/105/DbMultiFea/DbFeaStati/DbFeaPdf/PdfEmGmm/clusterCells2gmdistribution.m
+END

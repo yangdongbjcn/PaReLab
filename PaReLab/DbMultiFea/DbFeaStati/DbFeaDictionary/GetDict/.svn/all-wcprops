@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/PaReLab4/!svn/ver/112/DbMultiFea/DbFeaStati/DbFeaDictionary/GetDict
+END
+L1QP_FeatureSign_Set.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/PaReLab4/!svn/ver/105/DbMultiFea/DbFeaStati/DbFeaDictionary/GetDict/L1QP_FeatureSign_Set.m
+END
+GetDictLasso.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/PaReLab4/!svn/ver/105/DbMultiFea/DbFeaStati/DbFeaDictionary/GetDict/GetDictLasso.m
+END
+sc_approx_pooling.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/PaReLab4/!svn/ver/105/DbMultiFea/DbFeaStati/DbFeaDictionary/GetDict/sc_approx_pooling.m
+END
+L1QP_FeatureSign_yang.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/PaReLab4/!svn/ver/105/DbMultiFea/DbFeaStati/DbFeaDictionary/GetDict/L1QP_FeatureSign_yang.m
+END
+sc_pooling.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/PaReLab4/!svn/ver/112/DbMultiFea/DbFeaStati/DbFeaDictionary/GetDict/sc_pooling.m
+END
+GetDictLeastSquare.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/PaReLab4/!svn/ver/105/DbMultiFea/DbFeaStati/DbFeaDictionary/GetDict/GetDictLeastSquare.m
+END
+getObjective_RegSc.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/PaReLab4/!svn/ver/105/DbMultiFea/DbFeaStati/DbFeaDictionary/GetDict/getObjective_RegSc.m
+END
+reg_sparse_coding.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/PaReLab4/!svn/ver/105/DbMultiFea/DbFeaStati/DbFeaDictionary/GetDict/reg_sparse_coding.m
+END
+GetDictL2Reg.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/PaReLab4/!svn/ver/105/DbMultiFea/DbFeaStati/DbFeaDictionary/GetDict/GetDictL2Reg.m
+END
+spm.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/PaReLab4/!svn/ver/105/DbMultiFea/DbFeaStati/DbFeaDictionary/GetDict/spm.m
+END
+GetDictLassoGroup.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/PaReLab4/!svn/ver/105/DbMultiFea/DbFeaStati/DbFeaDictionary/GetDict/GetDictLassoGroup.m
+END
+l2ls_learn_basis_dual.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/PaReLab4/!svn/ver/105/DbMultiFea/DbFeaStati/DbFeaDictionary/GetDict/l2ls_learn_basis_dual.m
+END
