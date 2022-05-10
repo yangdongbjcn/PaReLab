@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/PaReLab4/!svn/ver/128/DbAnnot/ClassifierKnn
+END
+CalculateImageDist.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/PaReLab4/!svn/ver/105/DbAnnot/ClassifierKnn/CalculateImageDist.m
+END
+CalcDist.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/PaReLab4/!svn/ver/105/DbAnnot/ClassifierKnn/CalcDist.m
+END
+TransLabelsByDist.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/PaReLab4/!svn/ver/105/DbAnnot/ClassifierKnn/TransLabelsByDist.m
+END
+TransLabels.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/PaReLab4/!svn/ver/119/DbAnnot/ClassifierKnn/TransLabels.m
+END
+ClassifierKnn.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/PaReLab4/!svn/ver/128/DbAnnot/ClassifierKnn/ClassifierKnn.m
+END
+FindNearImages.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/PaReLab4/!svn/ver/105/DbAnnot/ClassifierKnn/FindNearImages.m
+END
+FindNearInstances.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/PaReLab4/!svn/ver/105/DbAnnot/ClassifierKnn/FindNearInstances.m
+END
+SelFea.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/PaReLab4/!svn/ver/105/DbAnnot/ClassifierKnn/SelFea.m
+END
+FindNonDiag.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/PaReLab4/!svn/ver/105/DbAnnot/ClassifierKnn/FindNonDiag.m
+END
+CalcMultiDist.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/PaReLab4/!svn/ver/105/DbAnnot/ClassifierKnn/CalcMultiDist.m
+END
+CalcSetDist.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/PaReLab4/!svn/ver/105/DbAnnot/ClassifierKnn/CalcSetDist.m
+END

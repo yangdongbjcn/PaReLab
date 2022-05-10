@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/PaReLab4/!svn/ver/128/DbAnnot
+END
+DbAnnot.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/PaReLab4/!svn/ver/105/DbAnnot/DbAnnot.m
+END
+SetupCacheDbAnnot.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/PaReLab4/!svn/ver/118/DbAnnot/SetupCacheDbAnnot.m
+END
+DbAnnotCrossValid.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/PaReLab4/!svn/ver/105/DbAnnot/DbAnnotCrossValid.m
+END
+NormDataByMaxMinSum.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/PaReLab4/!svn/ver/105/DbAnnot/NormDataByMaxMinSum.m
+END

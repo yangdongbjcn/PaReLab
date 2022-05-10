@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/PaReLab4/!svn/ver/105/DbAnnot/ClassifierKnn/Dist
+END
+DistChiSquare.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/PaReLab4/!svn/ver/105/DbAnnot/ClassifierKnn/Dist/DistChiSquare.m
+END
+DistKl.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/PaReLab4/!svn/ver/105/DbAnnot/ClassifierKnn/Dist/DistKl.m
+END
+DistMaxHausdorff.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/PaReLab4/!svn/ver/105/DbAnnot/ClassifierKnn/Dist/DistMaxHausdorff.m
+END
+DistL0.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/PaReLab4/!svn/ver/105/DbAnnot/ClassifierKnn/Dist/DistL0.m
+END
+DistL1.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/PaReLab4/!svn/ver/105/DbAnnot/ClassifierKnn/Dist/DistL1.m
+END
+DistL2.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/PaReLab4/!svn/ver/105/DbAnnot/ClassifierKnn/Dist/DistL2.m
+END

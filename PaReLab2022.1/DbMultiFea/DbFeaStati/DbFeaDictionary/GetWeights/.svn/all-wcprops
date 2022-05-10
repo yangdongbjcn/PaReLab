@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/PaReLab4/!svn/ver/129/DbMultiFea/DbFeaStati/DbFeaDictionary/GetWeights
+END
+GetWeightsLeastSquare.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/PaReLab4/!svn/ver/105/DbMultiFea/DbFeaStati/DbFeaDictionary/GetWeights/GetWeightsLeastSquare.m
+END
+GetWeightsL2Reg.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/PaReLab4/!svn/ver/105/DbMultiFea/DbFeaStati/DbFeaDictionary/GetWeights/GetWeightsL2Reg.m
+END
+GetWeightsLassoGroup.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/PaReLab4/!svn/ver/105/DbMultiFea/DbFeaStati/DbFeaDictionary/GetWeights/GetWeightsLassoGroup.m
+END
+process_options.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/PaReLab4/!svn/ver/129/DbMultiFea/DbFeaStati/DbFeaDictionary/GetWeights/process_options.m
+END
+GetWeightsLasso.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/PaReLab4/!svn/ver/105/DbMultiFea/DbFeaStati/DbFeaDictionary/GetWeights/GetWeightsLasso.m
+END
