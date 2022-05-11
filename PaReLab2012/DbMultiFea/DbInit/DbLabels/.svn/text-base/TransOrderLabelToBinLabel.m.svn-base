@@ -1,9 +1,0 @@
-function image_labels = TransOrderLabelToBinLabel(imageLabelOrder, mapLabelOrder)
-	%
-    % code@dyang.name
-    % Copyright (c) d. yang (2011). 
-    % This software may be freely used and distributed for non-commercial purposes.
-    %
-	
-	image_labels = mapLabelOrder(imageLabelOrder, :);
-end
